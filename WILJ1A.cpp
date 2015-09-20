@@ -1,4 +1,4 @@
-// Joshua Wilkeson CS2250 
+
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
